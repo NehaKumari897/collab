@@ -74,9 +74,9 @@ const Login = () => {
 
 const styles = {
   container: {
-    minHeight: '100vh', display: 'flex',
+   minHeight: '100vh', display: 'flex',
     alignItems: 'center', justifyContent: 'center',
-    background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
+    background: '#f0f4f8',
   },
   card: {
     background: 'white', padding: '40px',
@@ -93,7 +93,7 @@ const styles = {
     boxSizing: 'border-box', transition: 'border 0.2s',
   },
   button: {
-    width: '100%', padding: '14px', background: 'linear-gradient(135deg, #667eea, #764ba2)',
+    width: '100%', padding: '14px', background: '#4f46e5',
     color: 'white', border: 'none', borderRadius: '8px',
     fontSize: '16px', fontWeight: '600', cursor: 'pointer', marginTop: '8px',
   },

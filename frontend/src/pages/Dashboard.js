@@ -127,7 +127,7 @@ const styles = {
     borderRadius: '8px', fontSize: '14px', outline: 'none',
   },
   createBtn: {
-    padding: '12px 24px', background: 'linear-gradient(135deg, #667eea, #764ba2)',
+   padding: '12px 24px', background: '#4f46e5',
     color: 'white', border: 'none', borderRadius: '8px',
     fontSize: '14px', fontWeight: '600', cursor: 'pointer', whiteSpace: 'nowrap',
   },
