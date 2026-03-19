@@ -75,9 +75,9 @@ Start Frontend ->
  --------------------------
 
  👩‍💻 Contributors
-Kshama
-Neha Kumari
-Kanika Ekcoshiya
-lavanya
+    Kshama (https://github.com/Kshama0015)
+    Neha Kumari  (https://github.com/NehaKumari897)
+    Kanika Ekcoshiya  (https://github.com/Kanikaekcoshiya)
+    lavanya   (https://github.com/lavanya074)
 
 ------If you'd like to improve this project, feel free to fork the repository and submit a pull request.-------
