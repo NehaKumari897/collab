@@ -141,7 +141,7 @@ const Editor = () => {
       {/* Navbar */}
       <div style={styles.navbar}>
         <div style={styles.navLeft}>
-          <span style={styles.logo}>CollabDocs</span>
+          <span style={styles.logo}>SyncDocs</span>
           <input
             style={styles.titleInput}
             value={title}
