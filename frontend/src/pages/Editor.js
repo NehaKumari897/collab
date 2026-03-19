@@ -150,7 +150,7 @@ const styles = {
     minWidth: '200px',
   },
   navRight: { display: 'flex', alignItems: 'center', gap: '16px' },
-  saveStatus: { fontSize: '13px', color: '#11d857' },
+  saveStatus: { fontSize: '13px', color: '#4ae781' },
   onlineUsers: { display: 'flex', gap: '4px' },
   avatar: {
     width: '32px', height: '32px', borderRadius: '50%',
@@ -158,7 +158,7 @@ const styles = {
     color: '#4f46e5', display: 'flex', alignItems: 'center',
     justifyContent: 'center', fontSize: '13px', fontWeight: '700',
   },
-  userName: { fontSize: '14px', color: '#475569', fontWeight: '500' },
+  userName: { fontSize: '14px', color: '#405c83', fontWeight: '500' },
   logoutBtn: {
     padding: '6px 16px', background: '#fee2e2', color: '#ef4444',
     border: 'none', borderRadius: '6px', cursor: 'pointer',
@@ -168,14 +168,14 @@ const styles = {
   editor: {
     width: '100%', maxWidth: '860px', height: '100%',
     padding: '40px', fontSize: '16px', lineHeight: '1.8',
-    border: '1px solid #1c65c4', borderRadius: '12px',
+    border: '1px solid #a8b3c3', borderRadius: '12px',
     background: 'white', resize: 'none', outline: 'none',
     fontFamily: 'Georgia, serif', boxShadow: '0 4px 6px rgba(0,0,0,0.05)',
   },
   bottomBar: {
     display: 'flex', gap: '24px', padding: '8px 32px',
-    background: 'white', borderTop: '1px solid #e2e8f0',
-    fontSize: '12px', color: '#0e59c3',
+    background: 'white', borderTop: '1px solid #2973d4',
+    fontSize: '12px', color: '#d3e1f5',
   },
 };
 
